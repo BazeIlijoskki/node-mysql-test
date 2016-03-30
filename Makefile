@@ -11,7 +11,7 @@ load:
 
 setup: 
 	cp example-config.ini config.ini
-	sudo npm install
+	npm install
 
 run:
 	coffee app.coffee

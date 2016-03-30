@@ -21,12 +21,14 @@ Instructions
 6. Take a picture of the web page in your browser and put it in a `screenshots` directory
     * include the address bar and browser tab in the image
     * add this file to git and commit it
+7. Create a `Suggestions.md` file in the main directory, and suggest ways to "modernize" this test (it is now 3 years old)
+    * add this file to git and commit it
 
 ### Tips
 
-* Run the application using `make`
+* Start with the `Makefile` targets for configuration, database creation, and running the app.
 
 Submission
 ----------
 
-1. Zip up your `.git` directory in zip format and attach it to your oDesk application.
+1. Zip up **ONLY** your `.git` directory in zip format and attach it to your Upwork application.
